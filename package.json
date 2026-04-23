@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "ws": "^8.20.0"
+  },
+  "scripts": {
+    "start": "node src/main.js"
   }
 }
